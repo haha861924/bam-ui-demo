@@ -102,6 +102,18 @@
   resolved "https://registry.yarnpkg.com/@vue/shared/-/shared-3.2.29.tgz#07dac7051117236431d2f737d16932aa38bbb925"
   integrity sha512-BjNpU8OK6Z0LVzGUppEk0CMYm/hKDnZfYdjSmPOs0N+TR1cLKJAkDwW8ASZUvaaSLEi6d3hVM7jnWnX+6yWnHw==
 
+bam-ui@^0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/bam-ui/-/bam-ui-0.0.7.tgz#62be228a968eb5472e4e303eac244c4a3f2cb62c"
+  integrity sha512-XrAQi/tlj9jHsKitxuBwR0lCWibmOCkHekVkwdqrf0zBDBuqIJT/TjjesqH20Gilyra/4RncHTHL+pGGpVwACg==
+  dependencies:
+    bam-utility-plugins "^0.2.0"
+
+bam-utility-plugins@^0.2.0:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/bam-utility-plugins/-/bam-utility-plugins-0.2.1.tgz#a5d9e201dc8dad576ba4bb9e9afbc225d531edf2"
+  integrity sha512-qQHzYbuwyGq+GxLh/g3LKN3wg3aFZVmY576zzLxXsqfyb+SZKRUKTwpG/O6XkK5usIVo9p4BXbNLiuXqbjnM2w==
+
 csstype@^2.6.8:
   version "2.6.19"
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.6.19.tgz#feeb5aae89020bb389e1f63669a5ed490e391caa"
